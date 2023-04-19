@@ -18,4 +18,13 @@ Café = true
 console.log(Café) //imprime o valor booleano "true"
 ```
 
-isso mostra que a linguagem Javascript é pouco tipada e dinaâmica, pois a variável Café pode receber um valor do tipo string e depois receber um valor do tipo booleano.
+isso mostra que a linguagem Javascript é pouco tipada e dinâmica, pois a variável Café pode receber um valor do tipo string e depois receber um valor do tipo booleano.
+
+Let e Const sao locais, ou seja, só podem ser acessadas dentro do escopo que foram criadas, já o var é global, ou seja, pode ser acessada em qualquer lugar do código.
+
+* explicar oque a variavel é ou oque ela faz
+ex:
+```javascript
+let NameOfPlayer1 = "João"
+let MotherOfPlayer1 = "Maria"
+```
