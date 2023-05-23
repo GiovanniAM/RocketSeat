@@ -1,0 +1,14 @@
+.containerDivs{
+    display: flex;
+}
+.div1, .div2{
+    height: 100vh;
+    display: flex;
+    border: 2px dashed red;
+}
+.div1{
+    flex-grow: 1;  
+}
+.div2{
+    flex-grow: 4;
+}
