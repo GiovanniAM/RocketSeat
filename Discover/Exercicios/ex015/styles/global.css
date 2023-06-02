@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(240, 247, 253);
+}
+body{
+    background-color: rgb(240, 247, 253);
+}
+
+div, button{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: purple;
+    text-align: center;
+    font-size: larger;
+    font-weight: 800;
+    border-radius: 5px;
+    border: 10px solid purple;
+}
+button{
+    background-color: purple;
+    border-radius: 5px;
+    cursor: pointer;
+}
+div{
+    visibility: hidden; 
+    /*visible para visivel e hidden para invisivel*/
+}
