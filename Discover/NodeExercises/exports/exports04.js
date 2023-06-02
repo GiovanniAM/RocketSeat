@@ -1,0 +1,1 @@
+module.exports = "Este dado veio do export"
