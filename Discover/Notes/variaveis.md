@@ -6,7 +6,7 @@
 
 * var   <--- Não usar mais
 * let   <--- Usar
-* const <--- Usar
+* const <--- Usar 
 
 o JavaScript é uma linguagem de programação pouco tipada, ou seja, nao precisa de longos caminhos para se criar uma variável, basta apenas colocar o nome da variável e o valor que ela vai receber, e pronto, a variável foi criada.
 
